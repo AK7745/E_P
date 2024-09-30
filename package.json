@@ -1,0 +1,24 @@
+{
+  "name": "e_p",
+  "version": "1.0.0",
+  "description": "This is a boiler-plate for express",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AK7745/E_P.git"
+  },
+  "author": "Abdullah khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AK7745/E_P/issues"
+  },
+  "homepage": "https://github.com/AK7745/E_P#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
